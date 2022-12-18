@@ -1,4 +1,6 @@
-﻿namespace Robot
+﻿using System.Collections;
+
+namespace Robot
 {
     internal class Program
     {
